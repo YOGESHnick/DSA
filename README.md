@@ -1,6 +1,6 @@
 # DSA
 
-## This is the repository where I upload my solutions f the problems I solve!
+## This is the repository where I upload my solutions fo the problems I solve!
  
 > pov : Learning DSA !
 >
