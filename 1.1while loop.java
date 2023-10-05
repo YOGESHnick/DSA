@@ -11,7 +11,7 @@ public class Main {
 			if(x%2==0){e=e+x;}
 			else{o=o+x;}
 			n=n/10;
-		}
+		}   
 		System.out.print(e+" "+o);
 	}
 }
