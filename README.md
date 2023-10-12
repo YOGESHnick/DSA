@@ -2,7 +2,7 @@
  
 ## This is the repository where I upload my solutions for the problems I solve!
  
-> pov : Learning DSA !
+> POV : Learning DSA !
 >
 > 
 > + DPcult 
