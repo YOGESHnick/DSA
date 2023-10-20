@@ -7,7 +7,7 @@
 > 
 > + DPcult 
 > 
-> + Hope I laugh at these efforts, on one fine day!
+> + Hope I look back at these efforts, happily on one fine day!
 > + lol : )   !
 
 ```
