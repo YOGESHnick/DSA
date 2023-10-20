@@ -10,6 +10,7 @@
 > + Hope I laugh at these efforts, on one fine day!
 > + lol : )   !
 
-``` 
-sd
+```
+I wish I had chosen Computer Science in school,rather than Biology
+that would have kept me in a better place today!
 ```
