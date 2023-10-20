@@ -9,5 +9,5 @@
 > 
 > + Hope I look back at these efforts, happily on one fine day!
 > + lol : )   !
-> I wish I had chosen Computer Science in school,rather than Biology
+> + I wish I had chosen Computer Science in school,rather than Biology
 that would have kept me in a better place today!
