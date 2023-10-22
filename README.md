@@ -1,6 +1,7 @@
 # DSA
 <div id="badges" align="center">
- ![image](https://github.com/YOGESHnick/DSA/assets/108965130/8eef7bc4-cac6-47e9-9c50-5c12d857b440)
+ https://repository-images.githubusercontent.com/228240003/fa382e00-1bd2-11eb-992b-34d211d11cc2
+ <img src="https://repository-images.githubusercontent.com/228240003/fa382e00-1bd2-11eb-992b-34d211d11cc2"/>
 </div>
 ## This is the repository where I upload my solutions for the problems I solve!
  
