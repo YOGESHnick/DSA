@@ -1,5 +1,5 @@
 # DSA
-<div id="badges" align="center">
+<div align="center">
  https://repository-images.githubusercontent.com/228240003/fa382e00-1bd2-11eb-992b-34d211d11cc2
  <img src="https://repository-images.githubusercontent.com/228240003/fa382e00-1bd2-11eb-992b-34d211d11cc2"/>
 </div>
