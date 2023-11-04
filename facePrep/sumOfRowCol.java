@@ -38,7 +38,7 @@ class Main {
       if (row[i] == maxInRow) {
         rpos = i;
         break;
-      }
+      } 
     }
     for (int i = 0; i < c; i++) { 
       if (col[i] == maxInCol) {
