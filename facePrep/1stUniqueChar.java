@@ -5,16 +5,24 @@ class Main
   {
     Scanner sc = new Scanner(System.in);
     String s = sc.nextLine();
-    int f=0;
+    int flag=0;
+    char c;
+    int a[]=new int[256];//indices of this array will be characters!
     for(int i=0;i<s.length();i++)
     {
-      char letter=s.charAt(i);
-      if(s.indexOf(letter)==s.lastIndexOf(letter))
-      {System.out.print(letter);
-      	f=1;
+      a[s.charAt(i)]++;   //a[t]++; a[e]++ like this...
+    }
+    for(int i=0;i<s.length();i++)
+    {
+      if(a[s.charAt(i)]==1)
+      {
+        c=s.charAt(i);
+        System.out.print(c);
+       flag=1;
       	break;}
     }
-   if(f==0)
-     System.out.print("All the characters are repetitive");
+    if(flag==0)
+      System.out.print("All the characters are repetitive");
   }
+
 }
