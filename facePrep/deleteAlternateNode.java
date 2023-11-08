@@ -57,7 +57,7 @@ class Main
 
     }
     o.display();
-    System.out.println("After alternate deletion:");
+    System.out.println("After alternate deletion:");System.out.println();
     o.deleteAlternate();
     o.display();
   }
