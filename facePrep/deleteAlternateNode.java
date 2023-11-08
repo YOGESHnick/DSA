@@ -37,7 +37,7 @@ class Main
   {
       Node prev=head;
       Node curr=head.next;
-      while(prev.next != null && curr.next != null )
+      while(prev.next != null && curr.next != null )//prev.next for odd no.of inputs,curr.next for even
       {
           prev.next=curr.next;
           prev=curr.next;
