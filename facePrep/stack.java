@@ -3,10 +3,11 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.println("Enter number of operations:");
         int n = sc.nextInt();
         int top = 0;
         int[] stack = new int[n * n];
-        
+
         while (true) {
             if (top == n) {
                 System.out.println("Max size Reached!");
@@ -25,7 +26,7 @@ public class Main {
                 }
             }
         }
-        for (int i = 0; i < top; i++) {
+        for (int i = top-1; i >= 0; i--) {
             System.out.println("| " + stack[i] + " |");
             System.out.println("-----");
         }
