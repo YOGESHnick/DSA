@@ -20,13 +20,14 @@ public class Main
 		        else
 		        {
 		           int num=sc.nextInt();
+		           sc.nextLine();
 		           queue[rear++]=num;
 		            
 		        }
 		    }
 		    if(op.equals("deq"))
 		    {
-		        if(front > rear || front > 10)
+		        if(front > rear || front > 10 || rear==0)
 		        {
 		            System.out.println("underflow");
 		        }
