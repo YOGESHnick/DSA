@@ -6,7 +6,7 @@ class Solution{
         for(int num:arr){
             map.put(num,map.getOrDefault(num,0)+1);
         }
-        for(int i=1;i<=P;i++){
+        for(int i=1;i<=N;i++){
             arr[i-1]=map.getOrDefault(i,0);
         }
     }
