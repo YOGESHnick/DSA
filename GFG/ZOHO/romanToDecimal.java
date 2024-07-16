@@ -1,18 +1,12 @@
 class Solution {
     public int romanToDecimal(String str) {
-        int value = 0;
-        int prevValue = 0;
-        
-        for (int i = str.length() - 1; i >= 0; i--) {
-            int currentValue = getRomanValue(str.charAt(i));
-            if (currentValue < prevValue) {
-                value -= currentValue;
-            } else {
-                value += currentValue;
-            }
-            prevValue = currentValue;
+        int value=0,prevValue=0;
+        for(int i = str.length() - 1; i >= 0; i--){
+            int currentValue=getRomanValue(str.charAt(i));
+            if(currentValue<prevValue) value-=currentValue;
+            else value+=currentValue;
+            prevValue=currentValue;
         }
-        
         return value;
     }
     
